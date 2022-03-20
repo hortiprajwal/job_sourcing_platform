@@ -12,13 +12,13 @@ A new Flutter project.
   </tr>
   <tr >
     <td style="text-align: center; border:1px solid;padding:1em;">
-        <img width="80%" src="app_image/drawer.png">
+        <img width="80%" src="app_ss/drawer.png">
     </td>
     <td style="text-align: center; border:1px solid;padding:1em;">
-         <img width="80%" src="app_image/deals.png">
+         <img width="80%" src="app_ss/jobs.png">
     </td>
     <td style="text-align: center; border:1px solid;padding:1em;">
-         <img width="80%" src="app_image/indian.png">
+         <img width="80%" src="app_ss/application.png">
     </td>
   </tr>
   
