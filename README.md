@@ -4,6 +4,28 @@ A new Flutter project.
 
 ## Getting Started
 
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Drawer Page</th>
+    <th style="text-align: center; border:1px solid;">Main Page</th>
+    <th style="text-align: center; border:1px solid;">Main Page(bottom)</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="app_image/drawer.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="app_image/deals.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="app_image/indian.png">
+    </td>
+  </tr>
+  
+</table>
+<br>
+<hr>
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
