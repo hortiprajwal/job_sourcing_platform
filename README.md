@@ -18,7 +18,7 @@ A new Flutter project.
          <img width="80%" src="app_ss/jobs.png">
     </td>
     <td style="text-align: center; border:1px solid;padding:1em;">
-         <img width="80%" src="app_ss/application.png">
+         <img width="80%" src="app_ss/applications.png">
     </td>
   </tr>
   
